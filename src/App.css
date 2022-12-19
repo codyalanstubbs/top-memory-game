@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: purple;
+  width: 30px;
+  height: 30px;
+  border-radius: 5px;
+  border: 2px solid white;
+}
+
+li:hover {
+  cursor: pointer;
+  color: black;
+  background-color: white;
+  border: 2px solid purple;
+}
