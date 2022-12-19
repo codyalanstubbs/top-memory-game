@@ -1,4 +1,4 @@
-import { useState, useEffect }from 'react';
+import { useState } from 'react';
 import uniquid from 'uniquid';
 import getEmoji from "get-random-emoji";
 import './App.css';
