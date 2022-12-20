@@ -59,6 +59,7 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://codyalanstubbs.com/the-odin-project/20-memory-game/)
+
 Test out your short-term memory capacity with this memory card game! The game requires users to memorize what emojis they have clicked. 
 Users continue to click the emojis that they believe they have not clicked until they click an emoji they have already clicked. 
 The game increases in difficulty as with each round (e.g.: a card is add to the next sequence).
